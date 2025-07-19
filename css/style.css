@@ -17,9 +17,9 @@ header h1 {
 }
 
 nav {
-  background-color: #eee;
+  background-color: #113150;
+  color: #fff;
   padding: 0.5rem;
-  text-align: center;
 }
 
 nav a {
