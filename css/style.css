@@ -8,6 +8,8 @@ body {
 header {
   background-color: #f4f4f4;
   padding: 0rem 2rem;
+  max-width: 800px;
+  margin: auto;
 }
 
 .header-container {
@@ -27,12 +29,15 @@ nav {
   background-color: #113150;
   color: #fff;
   padding: 0.5rem;
+  margin: auto;
+  text-align: center;
+  width: 100%;
 }
 
 nav a {
   margin: 0 1rem;
   text-decoration: none;
-  color: #333;
+  color: #fff;
   font-weight: bold;
 }
 
