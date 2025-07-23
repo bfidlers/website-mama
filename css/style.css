@@ -8,7 +8,7 @@ body {
 header {
   background-color: #f4f4f4;
   padding: 0rem 2rem;
-  max-width: 800px;
+  max-width: 1000px;
   margin: auto;
 }
 
@@ -30,7 +30,6 @@ nav {
   color: #fff;
   padding: 0.5rem;
   margin: auto;
-  text-align: center;
   width: 100%;
 }
 
@@ -47,7 +46,7 @@ nav a:hover {
 
 main {
   padding: 2rem;
-  max-width: 800px;
+  max-width: 1000px;
   margin: auto;
 }
 
