@@ -30,7 +30,7 @@ nav {
   color: #fff;
   padding: 0.5rem;
   margin: auto;
-  width: 100%;
+  max-width: 1000px;
 }
 
 nav a {
