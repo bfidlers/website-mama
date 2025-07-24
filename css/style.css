@@ -24,6 +24,10 @@ header {
   font-size: 1.1rem;
 }
 
+.nav-container {
+  background-color: #113150;
+}
+
 nav {
   background-color: #113150;
   color: #fff;
